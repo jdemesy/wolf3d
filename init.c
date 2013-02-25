@@ -1,16 +1,12 @@
-/* -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
-
-* File Name : init.c
-
-* Purpose :
-
-* Creation Date : 04-02-2013
-
-* Last Modified : Mon 04 Feb 2013 04:46:41 PM CET
-
-* Created By :  
-
-_._._._._._._._._._._._._._._._._._._._._.*/
+/*
+** init.c for wolf3d in /home/jdemesy/projets/wolf3d
+** 
+** Made by Julien Demesy
+** Login   <jdemesy@epitech.net>
+** 
+** Started on  Mon Feb 25 18:48:30 2013 Julien Demesy
+** Last update Mon Feb 25 18:48:31 2013 Julien Demesy
+*/
 
 #include "attributes.h"
 

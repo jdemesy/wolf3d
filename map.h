@@ -1,16 +1,12 @@
-/* -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
-
-* File Name : map.h
-
-* Purpose :
-
-* Creation Date : 04-02-2013
-
-* Last Modified : Mon 04 Feb 2013 03:57:57 PM CET
-
-* Created By :  
-
-_._._._._._._._._._._._._._._._._._._._._.*/
+/*
+** map.h for wolf3d in /home/jdemesy/projets/wolf3d
+** 
+** Made by Julien Demesy
+** Login   <jdemesy@epitech.net>
+** 
+** Started on  Mon Feb 25 18:48:43 2013 Julien Demesy
+** Last update Mon Feb 25 18:48:44 2013 Julien Demesy
+*/
 
 #ifndef MAP_H_
 #define MAP_H_

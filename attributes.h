@@ -1,16 +1,12 @@
-/* -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
-
-* File Name : attributes.h
-
-* Purpose :
-
-* Creation Date : 04-02-2013
-
-* Last Modified : Mon 04 Feb 2013 04:46:44 PM CET
-
-* Created By :  
-
-_._._._._._._._._._._._._._._._._._._._._.*/
+/*
+** attributes.h for wolf3d in /home/jdemesy/projets/wolf3d
+** 
+** Made by Julien Demesy
+** Login   <jdemesy@epitech.net>
+** 
+** Started on  Mon Feb 25 18:48:08 2013 Julien Demesy
+** Last update Mon Feb 25 18:48:17 2013 Julien Demesy
+*/
 
 #ifndef ATTRIBUTES_H_
 # define ATTRIBUTES_H_
