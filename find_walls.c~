@@ -1,0 +1,20 @@
+/*
+** find_walls.c for wolf3d in /home/jdemesy/projets/wolf3d
+** 
+** Made by Julien Demesy
+** Login   <jdemesy@epitech.net>
+** 
+** Started on  Tue Feb 26 08:25:12 2013 Julien Demesy
+** Last update Tue Feb 26 08:29:45 2013 Julien Demesy
+*/
+
+#include "map.h"
+#include "attributes.h"
+
+void	render(t_map *map, t_player *player, t_projplane *pp)
+{
+  double current_angle;
+
+  current_angle = player->pov_a - (player->fov / 2);
+  
+}
